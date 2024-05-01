@@ -2,6 +2,9 @@
   "name": "packages",
   "version": "1.0.0",
   "main": "index.js",
+  "publishConfig": {
+    "@jakuzzibubbles:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "exit 0"
   },
